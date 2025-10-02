@@ -12,7 +12,6 @@ ENV/
 
 # Data & Models
 data/
-datasets/
 models/
 *.h5
 *.pt
