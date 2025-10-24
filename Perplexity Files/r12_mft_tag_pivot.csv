@@ -1,0 +1,9 @@
+Tag,Authority_Vice,Authority_Virtue,Care_Vice,Care_Virtue,Fairness_Vice,Fairness_Virtue,Loyalty_Vice,Loyalty_Virtue,Sanctity_Vice,Sanctity_Virtue
+Abuse,4,412,1047,801,98,170,0,494,805,147
+Aggression,0,60,130,96,15,18,0,61,76,22
+Discrimination,4,166,247,305,25,73,0,166,189,85
+Medical,8,430,534,818,43,71,1,250,207,489
+Mental Health,12,836,1499,1750,142,269,1,826,937,626
+Not Applicable,9,280,247,431,63,87,0,258,188,145
+Pregnancy,13,665,749,1334,80,152,1,521,302,637
+Sexual,1,202,518,406,42,76,0,230,402,90
