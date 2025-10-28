@@ -1,0 +1,12 @@
+{
+  "LABEL_0": "Care_Virtue",
+  "LABEL_1": "Care_Vice",
+  "LABEL_2": "Fairness_Virtue",
+  "LABEL_3": "Fairness_Vice",
+  "LABEL_4": "Loyalty_Virtue",
+  "LABEL_5": "Loyalty_Vice",
+  "LABEL_6": "Authority_Virtue",
+  "LABEL_7": "Authority_Vice",
+  "LABEL_8": "Sanctity_Virtue",
+  "LABEL_9": "Sanctity_Vice"
+}
