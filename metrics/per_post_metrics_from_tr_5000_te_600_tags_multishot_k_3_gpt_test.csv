@@ -1,0 +1,503 @@
+PostIndex,TrueLabels,PredictedLabels,Precision,Recall,F1
+1,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+2,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+3,[],['Not Applicable'],0.0,0.0,0.0
+4,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+5,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+6,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+7,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+8,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+9,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+10,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+11,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+12,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+13,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+14,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+15,[],['Pregnancy'],0.0,0.0,0.0
+16,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+17,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+18,[],"['Abuse', 'Sexual']",0.0,0.0,0.0
+19,[],['Not Applicable'],0.0,0.0,0.0
+20,[],['Not Applicable'],0.0,0.0,0.0
+21,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+22,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+23,[],['Not Applicable'],0.0,0.0,0.0
+24,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+25,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+26,[],['Not Applicable'],0.0,0.0,0.0
+27,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+28,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+29,[],"['Medical', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+30,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+31,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+32,[],['Not Applicable'],0.0,0.0,0.0
+33,[],"['Abuse', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+34,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+35,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+36,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+37,[],['Not Applicable'],0.0,0.0,0.0
+38,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+39,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+40,[],['Not Applicable'],0.0,0.0,0.0
+41,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+42,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+43,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+44,[],"['Abuse', 'Aggression', 'Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+45,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+46,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+47,[],['Not Applicable'],0.0,0.0,0.0
+48,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+49,[],['Abuse'],0.0,0.0,0.0
+50,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+51,[],"['Medical', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+52,[],"['Abuse', 'Aggression', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+53,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+54,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+55,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+56,[],['Not Applicable'],0.0,0.0,0.0
+57,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+58,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+59,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+60,[],"['Abuse', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+61,[],"['Abuse', 'Discrimination', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+62,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+63,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+64,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+65,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+66,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+67,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+68,[],['Not Applicable'],0.0,0.0,0.0
+69,[],['Not Applicable'],0.0,0.0,0.0
+70,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+71,[],['Not Applicable'],0.0,0.0,0.0
+72,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+73,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+74,[],['Mental Health'],0.0,0.0,0.0
+75,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+76,[],['Not Applicable'],0.0,0.0,0.0
+77,[],['Not Applicable'],0.0,0.0,0.0
+78,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+79,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+80,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+81,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+82,[],['Not Applicable'],0.0,0.0,0.0
+83,[],['Not Applicable'],0.0,0.0,0.0
+84,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+85,[],"['Abuse', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+86,[],['Not Applicable'],0.0,0.0,0.0
+87,[],"['Abuse', 'Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+88,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+89,[],['Not Applicable'],0.0,0.0,0.0
+90,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+91,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+92,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+93,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+94,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+95,[],['Pregnancy'],0.0,0.0,0.0
+96,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+97,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+98,[],"['Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+99,[],"['Abuse', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+100,[],"['Abuse', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+101,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+102,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+103,[],['Pregnancy'],0.0,0.0,0.0
+104,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+105,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+106,[],['Not Applicable'],0.0,0.0,0.0
+107,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+108,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+109,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+110,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+111,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+112,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+113,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+114,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+115,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+116,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+117,[],['Not Applicable'],0.0,0.0,0.0
+118,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+119,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+120,[],['Not Applicable'],0.0,0.0,0.0
+121,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+122,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+123,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+124,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+125,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+126,[],['Not Applicable'],0.0,0.0,0.0
+127,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+128,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+129,[],['Not Applicable'],0.0,0.0,0.0
+130,[],"['Abuse', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+131,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+132,[],['Pregnancy'],0.0,0.0,0.0
+133,[],"['Abuse', 'Aggression', 'Mental Health']",0.0,0.0,0.0
+134,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+135,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+136,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+137,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+138,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+139,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+140,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+141,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+142,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+143,[],['Not Applicable'],0.0,0.0,0.0
+144,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+145,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+146,[],['Not Applicable'],0.0,0.0,0.0
+147,[],"['Abuse', 'Aggression', 'Mental Health']",0.0,0.0,0.0
+148,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+149,[],['Not Applicable'],0.0,0.0,0.0
+150,[],['Sexual'],0.0,0.0,0.0
+151,[],"['Abuse', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+152,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+153,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+154,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+155,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+156,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+157,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+158,[],['Not Applicable'],0.0,0.0,0.0
+159,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+160,[],['Not Applicable'],0.0,0.0,0.0
+161,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+162,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+163,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+164,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+165,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+166,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+167,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+168,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+169,[],"['Mental Health', 'Sexual']",0.0,0.0,0.0
+170,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+171,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+172,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+173,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+174,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+175,[],['Not Applicable'],0.0,0.0,0.0
+176,[],['Not Applicable'],0.0,0.0,0.0
+177,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+178,[],"['Abuse', 'Aggression', 'Mental Health']",0.0,0.0,0.0
+179,[],['Not Applicable'],0.0,0.0,0.0
+180,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+181,[],['Pregnancy'],0.0,0.0,0.0
+182,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+183,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+184,[],['Not Applicable'],0.0,0.0,0.0
+185,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+186,[],['Not Applicable'],0.0,0.0,0.0
+187,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+188,[],"['Abuse', 'Discrimination', 'Mental Health']",0.0,0.0,0.0
+189,[],['Not Applicable'],0.0,0.0,0.0
+190,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+191,[],['Not Applicable'],0.0,0.0,0.0
+192,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+193,[],['Not Applicable'],0.0,0.0,0.0
+194,[],['Mental Health'],0.0,0.0,0.0
+195,[],"['Abuse', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+196,[],"['Abuse', 'Aggression', 'Discrimination', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+197,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+198,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+199,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+200,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+201,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+202,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+203,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+204,[],"['Abuse', 'Medical', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+205,[],['Not Applicable'],0.0,0.0,0.0
+206,[],['Not Applicable'],0.0,0.0,0.0
+207,[],['Not Applicable'],0.0,0.0,0.0
+208,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+209,[],['Pregnancy'],0.0,0.0,0.0
+210,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+211,[],['Not Applicable'],0.0,0.0,0.0
+212,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+213,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+214,[],['Not Applicable'],0.0,0.0,0.0
+215,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+216,[],"['Abuse', 'Discrimination', 'Sexual']",0.0,0.0,0.0
+217,[],['Not Applicable'],0.0,0.0,0.0
+218,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+219,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+220,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+221,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+222,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+223,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+224,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+225,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+226,[],"['Mental Health', 'Sexual']",0.0,0.0,0.0
+227,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+228,[],"['Abuse', 'Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+229,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+230,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+231,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+232,[],"['Mental Health', 'Sexual']",0.0,0.0,0.0
+233,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+234,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+235,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+236,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+237,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+238,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+239,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+240,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+241,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+242,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+243,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+244,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+245,[],['Not Applicable'],0.0,0.0,0.0
+246,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+247,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+248,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+249,[],"['Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+250,[],['Not Applicable'],0.0,0.0,0.0
+251,[],['Not Applicable'],0.0,0.0,0.0
+252,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+253,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+254,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+255,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+256,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+257,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+258,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+259,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+260,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+261,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+262,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+263,[],['Not Applicable'],0.0,0.0,0.0
+264,[],['Pregnancy'],0.0,0.0,0.0
+265,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+266,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+267,[],['Aggression'],0.0,0.0,0.0
+268,[],"['Mental Health', 'Sexual']",0.0,0.0,0.0
+269,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+270,[],['Not Applicable'],0.0,0.0,0.0
+271,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+272,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+273,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+274,[],"['Abuse', 'Aggression', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+275,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+276,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+277,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+278,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+279,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+280,[],"['Abuse', 'Discrimination', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+281,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+282,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+283,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+284,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+285,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+286,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+287,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+288,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+289,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+290,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+291,[],['Not Applicable'],0.0,0.0,0.0
+292,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+293,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+294,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+295,[],"['Abuse', 'Aggression', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+296,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+297,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+298,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+299,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+300,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+301,[],['Not Applicable'],0.0,0.0,0.0
+302,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+303,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+304,[],['Not Applicable'],0.0,0.0,0.0
+305,[],['Not Applicable'],0.0,0.0,0.0
+306,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+307,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+308,[],"['Discrimination', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+309,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+310,[],['Not Applicable'],0.0,0.0,0.0
+311,[],['Not Applicable'],0.0,0.0,0.0
+312,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+313,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+314,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+315,[],['Not Applicable'],0.0,0.0,0.0
+316,[],['Not Applicable'],0.0,0.0,0.0
+317,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+318,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+319,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+320,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+321,[],['Not Applicable'],0.0,0.0,0.0
+322,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+323,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+324,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+325,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+326,[],['Not Applicable'],0.0,0.0,0.0
+327,[],"['Abuse', 'Aggression', 'Mental Health']",0.0,0.0,0.0
+328,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+329,[],"['Abuse', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+330,[],['Not Applicable'],0.0,0.0,0.0
+331,[],['Not Applicable'],0.0,0.0,0.0
+332,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+333,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+334,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+335,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+336,[],"['Abuse', 'Discrimination', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+337,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+338,[],['Abuse'],0.0,0.0,0.0
+339,[],['Not Applicable'],0.0,0.0,0.0
+340,[],['Not Applicable'],0.0,0.0,0.0
+341,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+342,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+343,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+344,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+345,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+346,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+347,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+348,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+349,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+350,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+351,[],"['Abuse', 'Aggression', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+352,[],['Not Applicable'],0.0,0.0,0.0
+353,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+354,[],['Not Applicable'],0.0,0.0,0.0
+355,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+356,[],['Not Applicable'],0.0,0.0,0.0
+357,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+358,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+359,[],"['Medical', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+360,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+361,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+362,[],['Not Applicable'],0.0,0.0,0.0
+363,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+364,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+365,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+366,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+367,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+368,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+369,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+370,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+371,[],"['Abuse', 'Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+372,[],['Not Applicable'],0.0,0.0,0.0
+373,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+374,[],"['Abuse', 'Discrimination', 'Mental Health']",0.0,0.0,0.0
+375,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+376,[],"['Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+377,[],['Not Applicable'],0.0,0.0,0.0
+378,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+379,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+380,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+381,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+382,[],['Pregnancy'],0.0,0.0,0.0
+383,[],"['Abuse', 'Aggression', 'Mental Health']",0.0,0.0,0.0
+384,[],['Not Applicable'],0.0,0.0,0.0
+385,[],['Not Applicable'],0.0,0.0,0.0
+386,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+387,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+388,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+389,[],"['Abuse', 'Discrimination', 'Mental Health']",0.0,0.0,0.0
+390,[],['Pregnancy'],0.0,0.0,0.0
+391,[],['Not Applicable'],0.0,0.0,0.0
+392,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+393,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+394,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+395,[],['Not Applicable'],0.0,0.0,0.0
+396,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+397,[],['Not Applicable'],0.0,0.0,0.0
+398,[],['Pregnancy'],0.0,0.0,0.0
+399,[],['Not Applicable'],0.0,0.0,0.0
+400,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+401,[],['Not Applicable'],0.0,0.0,0.0
+402,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+403,[],"['Abuse', 'Aggression', 'Mental Health']",0.0,0.0,0.0
+404,[],['Not Applicable'],0.0,0.0,0.0
+405,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+406,[],['Pregnancy'],0.0,0.0,0.0
+407,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+408,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+409,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+410,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+411,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+412,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+413,[],['Pregnancy'],0.0,0.0,0.0
+414,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+415,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+416,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+417,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+418,[],['Not Applicable'],0.0,0.0,0.0
+419,[],['Not Applicable'],0.0,0.0,0.0
+420,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+421,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+422,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+423,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+424,[],['Not Applicable'],0.0,0.0,0.0
+425,[],"['Abuse', 'Mental Health']",0.0,0.0,0.0
+426,[],['Not Applicable'],0.0,0.0,0.0
+427,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+428,[],"['Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+429,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+430,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+431,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+432,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+433,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+434,[],['Mental Health'],0.0,0.0,0.0
+435,[],['Not Applicable'],0.0,0.0,0.0
+436,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+437,[],"['Abuse', 'Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+438,[],['Not Applicable'],0.0,0.0,0.0
+439,[],"['Mental Health', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+440,[],['Pregnancy'],0.0,0.0,0.0
+441,[],"['Abuse', 'Sexual']",0.0,0.0,0.0
+442,[],['Sexual'],0.0,0.0,0.0
+443,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+444,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+445,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+446,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+447,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+448,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+449,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+450,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+451,[],['Not Applicable'],0.0,0.0,0.0
+452,[],['Not Applicable'],0.0,0.0,0.0
+453,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+454,[],"['Abuse', 'Medical', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+455,[],"['Abuse', 'Aggression', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+456,[],"['Abuse', 'Aggression', 'Discrimination', 'Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+457,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+458,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+459,[],"['Abuse', 'Discrimination', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+460,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+461,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+462,[],['Not Applicable'],0.0,0.0,0.0
+463,[],['Not Applicable'],0.0,0.0,0.0
+464,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+465,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+466,[],"['Medical', 'Pregnancy', 'Sexual']",0.0,0.0,0.0
+467,[],['Not Applicable'],0.0,0.0,0.0
+468,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+469,[],"['Abuse', 'Medical', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+470,[],"['Abuse', 'Discrimination', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+471,[],['Not Applicable'],0.0,0.0,0.0
+472,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+473,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+474,[],"['Abuse', 'Medical', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+475,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+476,[],['Not Applicable'],0.0,0.0,0.0
+477,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+478,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+479,[],['Not Applicable'],0.0,0.0,0.0
+480,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+481,[],"['Mental Health', 'Pregnancy']",0.0,0.0,0.0
+482,[],['Not Applicable'],0.0,0.0,0.0
+483,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+484,[],"['Abuse', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+485,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+486,[],"['Abuse', 'Aggression', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+487,[],"['Abuse', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+488,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+489,[],['Not Applicable'],0.0,0.0,0.0
+490,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+491,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+492,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+493,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+494,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+495,[],"['Medical', 'Pregnancy']",0.0,0.0,0.0
+496,[],"['Medical', 'Mental Health', 'Pregnancy']",0.0,0.0,0.0
+497,[],['Not Applicable'],0.0,0.0,0.0
+498,[],"['Abuse', 'Mental Health', 'Sexual']",0.0,0.0,0.0
+499,[],['Not Applicable'],0.0,0.0,0.0
+500,[],['Not Applicable'],0.0,0.0,0.0
+Macro-Avg,,,0.0,0.0,0.0
+Micro-Avg,,,0.0,0.0,0.0
