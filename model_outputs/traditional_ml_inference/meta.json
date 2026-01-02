@@ -1,0 +1,22 @@
+{
+  "labels": [
+    "Abuse",
+    "Aggression",
+    "Sexual",
+    "Medical",
+    "Mental Health",
+    "Discrimination",
+    "Pregnancy",
+    "Not Applicable"
+  ],
+  "lr_best_threshold": 0.49999999999999994,
+  "tfidf": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 0.9,
+    "sublinear_tf": true
+  }
+}
