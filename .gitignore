@@ -29,3 +29,4 @@ wandb/
 .mypy_cache/
 .pytest_cache/
 jupyter-notebooks/Demux-MEmo/
+jupyter-notebooks/semeval.zip
