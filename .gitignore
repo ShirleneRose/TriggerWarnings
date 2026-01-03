@@ -5,6 +5,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Environments
+tw_env/
 .env
 .venv/
 venv/
@@ -30,3 +31,14 @@ wandb/
 .pytest_cache/
 jupyter-notebooks/Demux-MEmo/
 jupyter-notebooks/semeval.zip
+
+# OS files
+.DS_Store
+
+# Model outputs / checkpoints
+model_outputs/
+**/checkpoint-*/
+**/*.ckpt
+**/*.pt
+**/*.bin
+**/*.safetensors
