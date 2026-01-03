@@ -1,0 +1,1 @@
+Model trained on all 3 languages of SemEval 2018 Task 1 E-c (`Semeval-2018 task 1: Affect in tweets`).
