@@ -28,3 +28,4 @@ wandb/
 .cache/
 .mypy_cache/
 .pytest_cache/
+jupyter-notebooks/Demux-MEmo/
