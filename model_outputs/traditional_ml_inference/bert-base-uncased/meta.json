@@ -1,0 +1,35 @@
+{
+  "model": "bert-base-uncased",
+  "threshold_global": null,
+  "thresholds": [
+    0.4,
+    0.1,
+    0.4,
+    0.4,
+    0.55,
+    0.15000000000000002,
+    0.55,
+    0.15000000000000002
+  ],
+  "thresholds_by_label": {
+    "Abuse": 0.4,
+    "Aggression": 0.1,
+    "Sexual": 0.4,
+    "Medical": 0.4,
+    "Mental Health": 0.55,
+    "Discrimination": 0.15000000000000002,
+    "Pregnancy": 0.55,
+    "Not Applicable": 0.15000000000000002
+  },
+  "val_microF1": 0.8377514570407971,
+  "labels": [
+    "Abuse",
+    "Aggression",
+    "Sexual",
+    "Medical",
+    "Mental Health",
+    "Discrimination",
+    "Pregnancy",
+    "Not Applicable"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "model": "distilbert-base-uncased",
+  "threshold_global": null,
+  "thresholds": [
+    0.4,
+    0.1,
+    0.45,
+    0.45,
+    0.5,
+    0.15000000000000002,
+    0.6500000000000001,
+    0.2
+  ],
+  "thresholds_by_label": {
+    "Abuse": 0.4,
+    "Aggression": 0.1,
+    "Sexual": 0.45,
+    "Medical": 0.45,
+    "Mental Health": 0.5,
+    "Discrimination": 0.15000000000000002,
+    "Pregnancy": 0.6500000000000001,
+    "Not Applicable": 0.2
+  },
+  "val_microF1": 0.8335872048743336,
+  "labels": [
+    "Abuse",
+    "Aggression",
+    "Sexual",
+    "Medical",
+    "Mental Health",
+    "Discrimination",
+    "Pregnancy",
+    "Not Applicable"
+  ]
+}
