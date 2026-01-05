@@ -42,3 +42,11 @@ model_outputs/
 **/*.pt
 **/*.bin
 **/*.safetensors
+
+# --- Allow sharing inference outputs (small files) ---
+!model_outputs/
+!model_outputs/**/
+!model_outputs/**/predictions_*.csv
+!model_outputs/**/meta.json
+!model_outputs/**/metrics*.csv
+!model_outputs/**/metrics*.json
