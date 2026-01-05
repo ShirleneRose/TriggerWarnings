@@ -1,0 +1,35 @@
+{
+  "model": "xlnet-base-cased",
+  "threshold_global": null,
+  "thresholds": [
+    0.7000000000000001,
+    0.15000000000000002,
+    0.45,
+    0.3,
+    0.6000000000000001,
+    0.25,
+    0.5,
+    0.2
+  ],
+  "thresholds_by_label": {
+    "Abuse": 0.7000000000000001,
+    "Aggression": 0.15000000000000002,
+    "Sexual": 0.45,
+    "Medical": 0.3,
+    "Mental Health": 0.6000000000000001,
+    "Discrimination": 0.25,
+    "Pregnancy": 0.5,
+    "Not Applicable": 0.2
+  },
+  "val_microF1": 0.8684627575277337,
+  "labels": [
+    "Abuse",
+    "Aggression",
+    "Sexual",
+    "Medical",
+    "Mental Health",
+    "Discrimination",
+    "Pregnancy",
+    "Not Applicable"
+  ]
+}
