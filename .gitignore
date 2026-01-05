@@ -13,12 +13,12 @@ ENV/
 
 # Data & Models
 data/
-models/
-*.h5
-*.pt
-*.npy
-*.pkl
-*.ckpt
+# models/
+# *.h5
+# *.pt
+# *.npy
+# *.pkl
+# *.ckpt
 
 # Logs
 *.log
