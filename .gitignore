@@ -60,3 +60,7 @@ model_outputs/
 !model_outputs/**/meta.json
 !model_outputs/**/metrics*.csv
 !model_outputs/**/metrics*.json
+
+# Outputs
+model_outputs/
+
