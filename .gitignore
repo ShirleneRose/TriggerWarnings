@@ -31,6 +31,16 @@ wandb/
 .pytest_cache/
 jupyter-notebooks/Demux-MEmo/
 jupyter-notebooks/semeval.zip
+datasets
+Perplexity Files
+predicted_labels
+used_examples
+similarity_scores
+NRC-Emotion-Lexicon-Wordlevel-v0.92.txt
+nrc.html
+nrc.zip
+metrics
+model_outputs
 
 # OS files
 .DS_Store
