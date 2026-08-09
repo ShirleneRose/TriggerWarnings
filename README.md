@@ -2,7 +2,6 @@
 
 - **Paper:** *Do You Feel Triggered? Analyzing Triggering Experiences Predominantly Shared by Women on Reddit* (Accepted at ACM Hypertext 2026)
 - **GitHub Repository (Code + Dataset):** https://github.com/ShirleneRose/TriggerWarnings
-- **Dataset Archive (Zenodo):** https://zenodo.org/records/18251622
 
 ## Citation
 
